@@ -3,8 +3,8 @@
 ## Versions
 
 firebase-tools: v12.5.4<br>
-node: v18.16.1
-
+node: v18.16.1 <br>
+refererence: https://github.com/firebase/quickstart-js/blob/master/auth/google-popup.html
 
 # Steps
 
